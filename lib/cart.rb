@@ -1,6 +1,6 @@
 class Cart
 
-  attr_accessor :dish, :quantity, :price
+  attr_reader :dish, :quantity, :price
 
   def initialize(dish, quantity, price)
     @dish = dish

@@ -5,9 +5,9 @@ require 'order'
 describe Order do
 
   let(:order)  { order = Order.new        }
-  let(:dish_1) { double :dish, :price => 5}
-  let(:dish_2) { double :dish, :price => 5}
-  let(:dish_3) { double :dish, :price => 5}
+  let(:dish_1) { double :dish, price: 5}
+  let(:dish_2) { double :dish, price: 5}
+  let(:dish_3) { double :dish, price: 5}
 
   it 'should start with no dishes' do
     expect(order.dishes).to eq []

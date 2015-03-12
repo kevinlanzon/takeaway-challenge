@@ -1,10 +1,9 @@
 class Order
 
-  attr_accessor :dishes, :price, :total
+  attr_accessor :dishes, :total
 
   def initialize
     @dishes = []
-    @price = 5
     @total = 0
   end
 
@@ -13,7 +12,7 @@ class Order
   end
 
   def sum
-    dishes.each { |dish| @total += dish.price }
+    @total = dishes.map { |dish| dish.price }.inject(:+)
   end
 
 end

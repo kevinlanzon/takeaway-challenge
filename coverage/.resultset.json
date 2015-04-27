@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/cart.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/cart.rb": [
         1,
         null,
         1,
@@ -14,11 +14,10 @@
         null,
         1,
         1,
-        null,
         null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/customer_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/customer_spec.rb": [
         1,
         1,
         1,
@@ -34,10 +33,9 @@
         1,
         1,
         null,
-        null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/customer.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/customer.rb": [
         1,
         null,
         1,
@@ -46,10 +44,9 @@
         2,
         2,
         null,
-        null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/dish_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/dish_spec.rb": [
         1,
         1,
         1,
@@ -65,10 +62,9 @@
         1,
         1,
         null,
-        null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/dish.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/dish.rb": [
         1,
         null,
         1,
@@ -77,29 +73,41 @@
         2,
         2,
         null,
+        null
+      ],
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/menu_spec.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
         null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/menu_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/menu.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
+        1,
         null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/order_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/order_spec.rb": [
         1,
         1,
         1,
@@ -131,30 +139,28 @@
         1,
         1,
         null,
+        null
+      ],
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/order.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        4,
+        4,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        4,
         null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/order.rb": [
-        1,
-        null,
-        1,
-        null,
-        1,
-        4,
-        4,
-        null,
-        null,
-        1,
-        4,
-        null,
-        null,
-        1,
-        4,
-        null,
-        null,
-        null
-      ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/takeaway_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/takeaway_spec.rb": [
         1,
         1,
         1,
@@ -172,10 +178,9 @@
         1,
         1,
         null,
-        null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/takeaway.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/takeaway.rb": [
         1,
         null,
         1,
@@ -186,10 +191,9 @@
         2,
         2,
         null,
-        null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/spec/text_sender_spec.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/spec/text_sender_spec.rb": [
         1,
         null,
         1,
@@ -200,12 +204,10 @@
         1,
         1,
         1,
-        1,
-        null,
         null,
         null
       ],
-      "/Users/makerslaptop11/Projects/takeaway-challenge/lib/text_sender.rb": [
+      "/Users/kevinlanzon/Projects/takeaway-challenge/lib/text_sender.rb": [
         1,
         null,
         1,
@@ -219,11 +221,10 @@
         null,
         null,
         0,
-        null,
         null,
         null
       ]
     },
-    "timestamp": 1426173670
+    "timestamp": 1430141694
   }
 }

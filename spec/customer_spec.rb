@@ -1,5 +1,3 @@
-require 'simplecov'
-SimpleCov.start
 require 'customer'
 
 describe Customer do
@@ -13,5 +11,4 @@ describe Customer do
   it 'should have a contact number' do
     expect(customer.number).to eq 447730613823
   end
-
 end

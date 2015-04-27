@@ -1,5 +1,3 @@
-require 'simplecov'
-SimpleCov.start
 require 'cart'
 
 describe Cart do
@@ -18,5 +16,4 @@ describe Cart do
   it 'should give a total value' do
     expect(cart.order_total).to eq 15.00
   end
-
 end

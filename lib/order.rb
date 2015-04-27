@@ -14,5 +14,4 @@ class Order
   def sum
     @total = dishes.map { |dish| dish.price }.inject(:+)
   end
-
 end

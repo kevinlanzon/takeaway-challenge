@@ -8,5 +8,4 @@ class TakeAway
     @customer = customer
     @order = order
   end
-
 end

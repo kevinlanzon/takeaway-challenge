@@ -1,5 +1,3 @@
-require 'simplecov'
-SimpleCov.start
 require 'takeaway'
 
 describe TakeAway do
@@ -15,5 +13,4 @@ describe TakeAway do
   it 'should accept the customers order' do
     expect(takeaway.order).to eq order
   end
-
 end

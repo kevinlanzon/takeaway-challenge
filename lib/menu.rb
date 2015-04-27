@@ -9,5 +9,4 @@ attr_reader :dishes
   def display_dishes
     @dishes
   end
-
 end

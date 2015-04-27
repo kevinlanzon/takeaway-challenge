@@ -1,5 +1,3 @@
-require 'simplecov'
-SimpleCov.start
 require 'menu'
 
 describe Menu do
@@ -13,5 +11,4 @@ describe Menu do
   it 'should display a list of dishes' do
     expect(menu.display_dishes).to eq []
   end
-
 end

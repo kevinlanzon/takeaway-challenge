@@ -11,5 +11,4 @@ class Cart
   def order_total
     dish.price * quantity
   end
-
 end

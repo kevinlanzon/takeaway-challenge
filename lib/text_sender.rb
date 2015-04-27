@@ -12,5 +12,4 @@ def text_message
         :from => "+441465915035")
     puts message.sid
   end
-
 end

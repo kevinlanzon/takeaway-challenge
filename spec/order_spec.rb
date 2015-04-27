@@ -1,10 +1,8 @@
-require 'simplecov'
-SimpleCov.start
 require 'order'
 
 describe Order do
 
-  let(:order)  { order = Order.new        }
+  let(:order)  { order = Order.new     }
   let(:dish_1) { double :dish, price: 5}
   let(:dish_2) { double :dish, price: 5}
   let(:dish_3) { double :dish, price: 5}
@@ -29,5 +27,4 @@ describe Order do
     order.sum
     expect(order.total).to eq 15
   end
-
 end

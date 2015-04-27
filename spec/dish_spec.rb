@@ -1,5 +1,3 @@
-require 'simplecov'
-SimpleCov.start
 require 'dish'
 
 describe Dish do
@@ -13,5 +11,4 @@ describe Dish do
   it 'should have a price' do
     expect(dish.price).to eq 4.99
   end
-
 end

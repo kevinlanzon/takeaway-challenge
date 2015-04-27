@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/kevinlanzon/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/takeaway-challenge)
+
 Takeaway Challenge
 =========
 [Makers Academy](http://www.makersacademy.com) Week 2 Challenge

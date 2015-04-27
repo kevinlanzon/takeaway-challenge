@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/kevinlanzon/takeaway-challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/takeaway-challenge)
+[![Build Status](https://travis-ci.org/kevinlanzon/takeaway-challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/takeaway-challenge)
 
 Takeaway Challenge
 =========
